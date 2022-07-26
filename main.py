@@ -1,2 +1,1 @@
-chardefine = "z"
-
+chardefine = "/"
